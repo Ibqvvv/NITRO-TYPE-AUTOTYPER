@@ -1,4 +1,5 @@
 1. On PC/Mac:
+---------------
 Using Browser Console:
 
 Open Nitrotype: Launch Nitrotype in your web browser (e.g., Chrome, Firefox).
@@ -8,7 +9,9 @@ Go to the Console tab.
 Paste JavaScript Code: In the Console, paste the provided Auto Typer JavaScript code (you can find many Auto Typer scripts online).
 Press Enter: This will start the Auto Typer, and it will begin typing the race text automatically.
 Adjust Speed: Many scripts allow you to adjust typing speed or delays for a more human-like behavior.
+
 2. On iOS (iPhone/iPad):
+------------------------
 Using Bookmarklet (since you can't use Developer Tools directly):
 
 Open Safari: Launch Safari and go to any website.
@@ -17,7 +20,9 @@ Tap the Share button and select Add Bookmark.
 Name it something like "Auto Typer".
 Edit the Bookmark: Open the bookmark you just saved, tap the Edit button, and replace the URL with a JavaScript code that starts with javascript: (you can find JavaScript Auto Typer bookmarklets online).
 Use the Bookmarklet: After saving, navigate to Nitrotype in Safari, tap your created bookmarklet, and the script will start running and typing for you.
+
 3. On Samsung (Android):
+------------------------
 Using Bookmarklet (similar to iOS):
 
 Open Chrome: Launch Chrome or another browser.
